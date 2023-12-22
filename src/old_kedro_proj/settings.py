@@ -35,3 +35,6 @@ https://kedro.readthedocs.io/en/stable/kedro_project_setup/settings.html."""
 # Class that manages the Data Catalog.
 # from kedro.io import DataCatalog
 # DATA_CATALOG_CLASS = DataCatalog
+
+# from kedro.config import OmegaConfigLoader
+# CONFIG_LOADER_CLASS = OmegaConfigLoader
